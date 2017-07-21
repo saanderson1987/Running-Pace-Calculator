@@ -1,7 +1,6 @@
 {
   "name": "Run_Pacer",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "webpack": "^3.3.0"
@@ -14,5 +13,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saanderson1987/Running-Pace-Calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saanderson1987/Running-Pace-Calculator/issues"
+  },
+  "homepage": "https://github.com/saanderson1987/Running-Pace-Calculator#readme",
+  "description": ""
 }

@@ -37,5 +37,7 @@ form.onsubmit = (event) => {
   event.preventDefault();
   getInput();
   let pace = findPace(goalTime, distanceInterval);
-  document.querySelector('#pace-interval').textContent = `${mileIntervalText} mile pace: ${pace}`;
+  // document.querySelector('#pace-interval').textContent = `${mileIntervalText} mile pace: ${pace}`;
+  document.querySelector('#pace-interval').textContent = `${pace}`;
+
 };
